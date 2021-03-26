@@ -1,0 +1,137 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather' , serif;
+  color: #40514E;
+}
+
+.top-container {
+  background-color: #f6dfeb;
+  padding-top: 100px;
+  position: relative;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: Sacramento, cursive;
+  font-size: 5.625em;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  font-size: 2.5rem;
+}
+
+.middle-container{
+  padding: 50px 0 50px 0;
+
+}
+h3{
+  color: #11999E;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.profile-pic{
+
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.computer{
+
+}
+
+.chillies{
+
+}
+
+.computer-image{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chillies-image{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+hr {
+  border: dotted #66BFBF;
+  border-bottom: none;
+  width: 10%;
+  margin: 100px auto;
+  border-width: 4px;
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.contact-me{
+  line-height: 2;
+  width: 40%;
+  margin: auto;
+}
+
+.contact-para{
+  margin-bottom: 50px;
+}
+
+a {
+  margin: 0 20px;
+  color: #11999E;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
